@@ -9,3 +9,4 @@ let random=Math.random();
 let max=Math.max(1,2,5,7,20);
 
 let mod=24%5;
+
